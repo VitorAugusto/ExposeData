@@ -18,7 +18,7 @@ public class ExposeDataMain {
 	static String ignoreEmail = "Email addresses";
 	static String ignorePassword = "Passwords";
 	// Chave de API necessária para realizar consultas na base de dados.
-	static String minhaApiKey = "659b6289dc7f41b39e99e2329ecb64f0";
+	static String minhaApiKey = "~~~~~~";
 
 	public static void main(String[] args) throws IOException {
 		// Lista de e-mails para pesquisa.
