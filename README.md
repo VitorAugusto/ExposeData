@@ -1,3 +1,3 @@
 # ExposeData
 
-Ferramenta para coleta de dados de violações que utiliza o Have i Been Pwned como provedor de informações.
+Ferramenta desenvolvida em Java para a coleta de dados de violações, utilizando a API da plataforma Have i Been Pwned.
