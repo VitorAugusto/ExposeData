@@ -56,7 +56,7 @@ Mais detalhes de como contribuir e enviar Pull Requests em <a href="https://docs
 
 ## :memo: Licença 
 
-Todo código Java desse projeto está licenciado sobe a licença <a href="https://github.com/goismurilo/ExposeData/blob/main/LICENSE">MIT.</a>
+Todo código Java desse projeto está licenciado sobe a licença <a href="https://github.com/VitorAugusto/ExposeData/blob/main/LICENSE">MIT.</a>
 <br>
 <br>
 <div align="center">
