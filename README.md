@@ -4,8 +4,7 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
     <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
-    <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg
-"/>
+    <img src="https://badgen.net/badge/icon/eclipse?icon=eclipse&label"/>
 </div>
 
 
