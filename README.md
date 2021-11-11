@@ -11,16 +11,31 @@
 
 ## :books: O que é o Projeto?
 
- `Descrever o Projeto aqui`
+ `Software desenvolvido para o Trabalho de Conclusão de Curso - IFBA Campus Eunápolis `
 
- `At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat`
+ `Esta ferramenta é capaz de coletar e tratar dados de violações utilizando uma amostra de e-mails por meio da plataforma Have i Been Pwned. A ferramenta é capaz também de avaliar o nível de exposição de dados de cada e-mail fornecido, por meio de um cálculo que considera:`
  
+ 
+ 1) A média de ano das violações
+ 2) O número de violações sofridas
+ 3) O número de diferentes tipos de dados violados
+
+<div align="center">
+    
+     Tela de resultado da aplicação para Estado Crítico de exposição
 
 ![image1](https://user-images.githubusercontent.com/39069727/141048024-367d1b16-60d5-4a15-aaa9-dbb9a68508ed.jpeg)
 
+     Tela de resultado da aplicação para nível Mais Exposto
+
 ![image2](https://user-images.githubusercontent.com/39069727/141048124-5fcc3d71-796a-4cc4-b311-0a6e3ce55ef2.jpeg)
 
+     Tela de resultado da aplicação para nível Menos Exposto
+
 ![image3](https://user-images.githubusercontent.com/39069727/141048169-8ae7cc72-5df2-43b7-9a34-21073bea28b0.jpeg)
+    
+</div>
+ 
 
 
 
@@ -56,7 +71,7 @@ Mais detalhes de como contribuir e enviar Pull Requests em <a href="https://docs
 
 ## :memo: Licença 
 
-Todo código Java desse projeto está licenciado sobe a licença <a href="https://github.com/VitorAugusto/ExposeData/blob/main/LICENSE">MIT.</a>
+Todo código Java desse projeto está licenciado sob a licença <a href="https://github.com/VitorAugusto/ExposeData/blob/main/LICENSE">MIT.</a>
 <br>
 <br>
 <div align="center">
