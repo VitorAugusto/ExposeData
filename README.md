@@ -56,7 +56,9 @@ Mais detalhes de como contribuir e enviar Pull Requests em <a href="https://docs
 
 ## :memo: Licença 
 
-Todo código Java desse projeto está licenciado sobe a licença `fulana_de_tal`.
-
-![Feito com Amor](http://ForTheBadge.com/images/badges/built-with-love.svg
-)
+Todo código Java desse projeto está licenciado sobe a licença <a href="https://github.com/VitorAugusto/ExposeData/blob/main/LICENSE">MIT.</a>
+<br>
+<br>
+<div align="center">
+    <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
+</div>
